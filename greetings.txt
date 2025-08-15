@@ -1,1 +1,1 @@
-Namaste from Git!
+Bonjour from Git!
